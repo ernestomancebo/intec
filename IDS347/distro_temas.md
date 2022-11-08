@@ -4,6 +4,8 @@
 
 - Equipo 1
 - Equipo 2
+Integrantes:
+Enmanuel Reynoso - 1101524
 - Equipo 3
 
 ### Agile
