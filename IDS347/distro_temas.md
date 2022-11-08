@@ -10,5 +10,6 @@ Enmanuel Reynoso - 1101524
 
 ### Agile
 ### SQL/NoSQL
+Equipo 2 - Firestore 
 ### Out of the Box
 ### Networking 
