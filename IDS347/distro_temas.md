@@ -11,7 +11,11 @@
 
 ### Agile
 
+- Kanban
+
 ### SQL/NoSQL
+
+- Mongo DB
 
 ### Out of the Box
 
