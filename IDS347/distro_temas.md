@@ -19,6 +19,8 @@
 
 ### Out of the Box
 
+-Equipo 1: Docker
+
 ### Networking
 
 - Equipo 1: UDP
