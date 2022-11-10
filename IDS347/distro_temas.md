@@ -19,7 +19,7 @@
 
 ### Out of the Box
 
--Equipo 1: Docker
+- Equipo 1: Docker
 
 ### Networking
 
