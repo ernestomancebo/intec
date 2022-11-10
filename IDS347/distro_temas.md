@@ -7,6 +7,10 @@
 - Equipo 3
 
 ### Agile
+
+- Kanban
 ### SQL/NoSQL
+
+- Mongo DB
 ### Out of the Box
 ### Networking 
