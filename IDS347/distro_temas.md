@@ -11,12 +11,14 @@
 
 ### Agile
 
-- Kanban
+- Equipo 1: Kanban
 
 ### SQL/NoSQL
 
-- Mongo DB
+- Equipo 1: Mongo DB
 
 ### Out of the Box
 
 ### Networking
+
+- Equipo 1: UDP
