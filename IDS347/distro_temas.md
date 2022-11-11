@@ -14,7 +14,7 @@
   Frank Hartling - 1098970 
 - Equipo 3(LosDuros):
     Integrantes:
-        Camilo María: 1100433:
+        Camilo María: 1100433
 
 ### Agile
 - Equipo 1 - Kanban
