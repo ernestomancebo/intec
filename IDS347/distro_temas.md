@@ -9,7 +9,7 @@
         Camilo María: 1100433
 
 ### Agile
-Equipo 3: Scrum
+- Equipo 3: Scrum
 ### SQL/NoSQL
 ### Out of the Box
 ### Networking 
