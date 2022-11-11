@@ -8,10 +8,12 @@
     Integrantes:
         Camilo María: 1100433
         Josue Herrera 1100686
+        Taiyab Gillani: 1099001
 
 ### Agile
 - Equipo 3: Scrum
 ### SQL/NoSQL
+  Equipo 3: MariaDB
 ### Out of the Box
  equipo 3: PostRest
 ### Networking 
