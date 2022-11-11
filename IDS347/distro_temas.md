@@ -15,20 +15,22 @@
 - Equipo 3(LosDuros):
     Integrantes:
         Camilo María: 1100433
+        Josue Herrera 1100686
+        Taiyab Gillani: 1099001
 
 ### Agile
 - Equipo 1 - Kanban
 - Equipo 2 - XP (Extreme Programming)
 - Equipo 3: Scrum
 ### SQL/NoSQL
-
 - Equipo 1 - Mongo DB
 - Equipo 2 - Firestore 
+  Equipo 3: MariaDB
 
 ### Out of the Box
-
 - Equipo 1 - Docker
 - Equipo 2 - Flutter
+- Equipo 3: PostRest
 
 ### Networking
 
