@@ -9,6 +9,7 @@
         Camilo María: 1100433
         Josue Herrera 1100686
         Taiyab Gillani: 1099001
+        Juan Arias: 1102132
 
 ### Agile
 - Equipo 3: Scrum
