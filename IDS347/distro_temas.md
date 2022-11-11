@@ -19,7 +19,7 @@
 ### Agile
 - Equipo 1 - Kanban
 - Equipo 2 - XP (Extreme Programming)
-Equipo 3: Scrum
+- Equipo 3: Scrum
 ### SQL/NoSQL
 
 - Equipo 1 - Mongo DB
