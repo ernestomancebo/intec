@@ -10,10 +10,13 @@ Enmanuel Reynoso - 1101524
 Jeancarlos Herrera - 1102458
 Pedro Julio Figuereo - 1102291
 Frank Hartling - 1098970
-- Equipo 3
+- Equipo 3(LosDuros):
+    Integrantes:
+        Camilo María: 1100433
 
 ### Agile
 Equipo 2 - XP (Extreme Programming)
+Equipo 3: Scrum
 ### SQL/NoSQL
 Equipo 2 - Firestore 
 ### Out of the Box
