@@ -7,6 +7,7 @@
   Emilio Santos 1091415 |
   Kevin Joa 1100305 |
   Ángel Peña 1103314
+  Daniel Baez 1073597
 - Equipo 2:
   Enmanuel Reynoso - 1101524 |
   Jeancarlos Herrera - 1102458 |
