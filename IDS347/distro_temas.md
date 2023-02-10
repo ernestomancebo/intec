@@ -4,13 +4,14 @@
 
 - Equipo 1:
 
-- Equipo 2:
+- Equipo 2: 
+      * Elias Ortega Espinal 1101970
 
 - Equipo 3:
 
 ### Agile
 - Equipo 1 - 
-- Equipo 2 - 
+- Equipo 2 - Scrum
 - Equipo 3 - 
 
 ### SQL/NoSQL
