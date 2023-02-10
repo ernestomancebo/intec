@@ -3,7 +3,7 @@
 ## Equipos
 
 - Equipo 1:
-- Joel Mauricio
+  - Joel Mauricio
 - Equipo 2:
 
 ### Agile
