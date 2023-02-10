@@ -16,7 +16,7 @@
 ### SQL/NoSQL
 - Equipo 1 - 
 - Equipo 2 - MongoDB
-  Equipo 3 - 
+- Equipo 3 - 
 
 ### Out of the Box
 - Equipo 1 - 
