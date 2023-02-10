@@ -4,8 +4,7 @@
 
 - Equipo 1:
 
-- Equipo 2: 
-      * Elias Ortega Espinal 1101970
+- Equipo 2: Elias Ortega Espinal 1101970 | Willians Olaverria 1103245
 
 - Equipo 3:
 
@@ -16,7 +15,7 @@
 
 ### SQL/NoSQL
 - Equipo 1 - 
-- Equipo 2 - 
+- Equipo 2 - MongoDB
   Equipo 3 - 
 
 ### Out of the Box
