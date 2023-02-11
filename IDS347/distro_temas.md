@@ -3,31 +3,30 @@
 ## Equipos
 
 - Equipo 1:
-
-- Equipo 2: 
-    - Elias Ortega Espinal 1101970
-    - Willians Olaverria 1103245
-    - Christian Aquino 1099784
-
-- Equipo 3:
+  - Joel Mauricio
+  - Diego Capellan
+  - Victor Gomez
+- Equipo 2:
+  - Elias Ortega Espinal 1101970
+  - Willians Olaverria 1103245
+  - Christian Aquino 1099784
 
 ### Agile
-- Equipo 1 - 
-- Equipo 2 - Scrum
-- Equipo 3 - 
+
+- Equipo 1 - Kanban / War Room
+- Equipo 2 -Scrum
 
 ### SQL/NoSQL
-- Equipo 1 - 
+
+- Equipo 1 - FireBase / Pocketbase
 - Equipo 2 - MongoDB
-- Equipo 3 - 
 
 ### Out of the Box
-- Equipo 1 - 
-- Equipo 2 - ORM
-- Equipo 3 - 
+
+- Equipo 1 - React Native
+- Equipo 2 -ORM
 
 #### Networking
-- Equipo 1 -
-- Equipo 2 - Web Sockets
-- Equipo 3 -
 
+- Equipo 1 - Publish Subscriber
+- Equipo 2 - Web Sockets
