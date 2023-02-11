@@ -4,6 +4,8 @@
 
 - Equipo 1:
   - Joel Mauricio
+  - Diego Capellan
+  - Victor Gomez
 - Equipo 2:
   - Elias Ortega Espinal 1101970
   - Willians Olaverria 1103245
