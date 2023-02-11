@@ -3,7 +3,7 @@
 ## Equipos
 
 - Equipo 1:
-- Joel Mauricio - Diego Capellan
+- Joel Mauricio - Diego Capellan - Victor Gomez
 - Equipo 2:
 
 ### Agile
