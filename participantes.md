@@ -3,6 +3,7 @@
 1. Ernesto Mancebo - 0
 2. Pazzis Paulino - 1103790
 3. Eduardo Segura - 1106648
+4. Luis Adames - 1106170
 
 - Equipos
   - **Equipo Segura - Tema 1 Agile**
