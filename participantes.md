@@ -11,4 +11,9 @@
     - Jincheng Wu - 1106398
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
-  - 
+  - **Equipo Angel - Tema Scrum**
+    Huan Hao Wu - 1104326
+    Eros Bencosme - 1104510
+    Ángel Moreno - 1104666
+    Gleidy Espinal - 1104225
+    Rolbik Urbáez - 1105721
