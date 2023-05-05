@@ -11,4 +11,10 @@
     - Jincheng Wu - 1106398
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
-  - 
+
+  - **Equipo - Tema: 12 Factors**
+    - Pazzis Paulino 1103790
+    - Paola Saldaña 1104081
+    - Alexa Guzmán 1101488
+    - Johan Contreras 1106473
+    - Allen Silverio 1104220
