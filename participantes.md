@@ -11,4 +11,9 @@
     - Jincheng Wu - 1106398
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
-  - 
+  - **EQUIPO Ferreira - TEMA 3: SERIES TEMPORALES (REDIS, POSTGRES)**
+    - William Ferreira - 1104228
+    - Luis Adames - 1106170
+    - Cistian Jimenez - 1106166
+    - Rosanna Bautista - 1105980 
+    - Jean Brugal - 1105192
