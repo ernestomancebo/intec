@@ -5,7 +5,7 @@
 3. Eduardo Segura - 1106648
 
 - Equipos
-  - **Equipo Segura - Tema 1 Agile**
+  - **Equipo Segura - Tema 1 Scrum**
     - Eduardo Segura - 1106648
     - Evans Jimenez - 1105402
     - Jincheng Wu - 1106398
