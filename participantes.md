@@ -29,3 +29,10 @@
    - Ricardo Acosta - 1104082
    - Wilbert Leon - 1105634
    - Pablo Felix - 1105997
+  - **Equipo Angel - Tema Metodologia Agile Lean**
+    •	Huan Hao Wu - 1104326
+    •	Eros Bencosme - 1104510
+    •	Ángel Moreno - 1104666
+    •	Gleidy Espinal - 1104225
+    •	Rolbik Urbáez - 1105721
+
