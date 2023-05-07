@@ -35,6 +35,12 @@
     -	Ángel Moreno - 1104666
     -	Gleidy Espinal - 1104225
     -	Rolbik Urbáez - 1105721
+  - **Equipo Pazzis - Tema: 12 Factors App**
+    - Pazzis Paulino 1103790
+    - Paola Saldaña 1104081
+    - Alexa Guzmán 1101488
+    - Johan Contreras 1106473
+    - Allen Silverio 1104220
 
 
 ## Plan de Trabajo
