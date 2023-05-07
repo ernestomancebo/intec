@@ -24,15 +24,57 @@
     - Rosanna Bautista - 1105980 
     - Jean Brugal - 1105192
   - **Equipo Acosta - Tema 3 Almacenamientos de Big Data**
-   - Jean Güichardo - 1105491
-   - Jesus Bido - 1105909
-   - Ricardo Acosta - 1104082
-   - Wilbert Leon - 1105634
-   - Pablo Felix - 1105997
+    - Jean Güichardo - 1105491
+    - Jesus Bido - 1105909
+    - Ricardo Acosta - 1104082
+    - Wilbert Leon - 1105634
+    - Pablo Felix - 1105997
   - **Equipo Angel - Tema Metodologia Agile Lean**
-    •	Huan Hao Wu - 1104326
-    •	Eros Bencosme - 1104510
-    •	Ángel Moreno - 1104666
-    •	Gleidy Espinal - 1104225
-    •	Rolbik Urbáez - 1105721
+    -	Huan Hao Wu - 1104326
+    -	Eros Bencosme - 1104510
+    -	Ángel Moreno - 1104666
+    -	Gleidy Espinal - 1104225
+    -	Rolbik Urbáez - 1105721
 
+
+## Plan de Trabajo
+
+Distribución de temas y asignaciones a lo largo del trimestre.
+
+
+
+
+
+```mermaid
+timeline
+    title Plan de Trabajo
+    section Primera Mitad
+        Semana 1 
+            : Git
+            : Control de Lectura
+            : Distribución de Temas
+        Semana 2 
+            : Metodologías Ágiles
+            : Scrum
+            : Extreme Programming (XP)
+            : Lean
+        Semana 3 
+            : Principios de Desarrollo
+            : 12 Factors App
+        Semana 4 
+            : Persistiendo Datos
+            : Bases de Datos Temporales
+            : Almacenamiento en Big Data
+        Semana 5 : Evaluaciones
+    section Segunda Mitad
+        Semana 6
+            : DevOps (CI/CD)
+        Semana 8
+            : Soluciones Enlatadas (Out-of-the-Box)
+        Semana 9
+            : Intercomunicación de Aplicaciones (Networking)
+        Semana 10
+            : Tope presentaciones individuales
+        Semana 11
+            : Evaluaciones
+```
