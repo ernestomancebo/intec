@@ -41,7 +41,10 @@
     - Alexa Guzmán 1101488
     - Johan Contreras 1106473
     - Allen Silverio 1104220
-
+  - **Equipo Mesa - Tema: Principios de Desarrollo de Aplicaciones / Software**
+    - Jesús Acosta - 1104174
+    - Francisco Mesa - 1104528
+    - Eduardo Hernández - 1102911
 
 ## Plan de Trabajo
 
