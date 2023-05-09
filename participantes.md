@@ -5,12 +5,13 @@
 3. Eduardo Segura - 1106648
 
 - Equipos
-  - **Equipo Segura - Tema 1 Scrum**
+  - **Equipo Segura - Tema Scrum**
     - Eduardo Segura - 1106648
     - Evans Jimenez - 1105402
     - Jincheng Wu - 1106398
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
+    - Wancel Javier ferreras - 1107672
   - **Equipo 2 - Tema Xtreme Programming**
     - Manuel Sánchez 1104904
     - Francisco Paulino 1106084
