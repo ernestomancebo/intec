@@ -42,7 +42,19 @@
     - Alexa Guzmán 1101488
     - Johan Contreras 1106473
     - Allen Silverio 1104220
+  - **Equipo Mesa - Tema: BBDD de Documentos (couchdb, mongodb, Solr)**
+    - Jesús Acosta - 1104174
+    - Francisco Mesa - 1104528
+    - Eduardo Hernández - 1102911
+    - Wancel Javier Ferreras - 1107672
+    - Bryan Medina - 1094168
+  - **Equipo Rafael - Tema: BBDD Columnares**
+    - Rafael Espinal - 1102817
+    - Fernando Grullon - 1094013
+    - Rahnya Negron - 1098587
 
+
+    
 
 ## Plan de Trabajo
 
