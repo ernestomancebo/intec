@@ -51,6 +51,7 @@
     - Rafael Espinal - 1102817
     - Fernando Grullon - 1094013
     - Rahnya Negron - 1098587
+    - Mariano Vásquez - 1087284
 
 
     
