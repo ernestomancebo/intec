@@ -2,16 +2,15 @@
 
 1. Ernesto Mancebo - 0
 2. Pazzis Paulino - 1103790
-3. Eduardo Segura - 1106648
+3. Eduardo Segura - 1106648 (Flutter/Dart)
 
 - Equipos
   - **Equipo Segura - Tema Scrum**
-    - Eduardo Segura - 1106648
+    - Eduardo Segura - 1106648 (Flutter/Dart)
     - Evans Jimenez - 1105402
     - Jincheng Wu - 1106398
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
-    - Wancel Javier ferreras - 1107672
   - **Equipo 2 - Tema Xtreme Programming**
     - Manuel Sánchez 1104904
     - Francisco Paulino 1106084
