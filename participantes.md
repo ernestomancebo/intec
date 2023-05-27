@@ -21,7 +21,7 @@
     - William Ferreira - 1104228
     - Luis Adames - 1106170
     - Cistian Jimenez - 1106166
-    - Rosanna Bautista - 1105980 
+    - Rosanna Bautista - 1105980
     - Jean Brugal - 1105192
   - **Equipo Acosta - Tema 3 Almacenamientos de Big Data**
     - Jean Güichardo - 1105491
@@ -30,13 +30,13 @@
     - Wilbert Leon - 1105634
     - Pablo Felix - 1105997
   - **Equipo Angel - Tema Metodologia Agile Lean**
-    -	Huan Hao Wu - 1104326
-    -	Eros Bencosme - 1104510
-    -	Ángel Moreno - 1104666
-    -	Gleidy Espinal - 1104225
-    -	Rolbik Urbáez - 1105721
-  - **Equipo Pazzis - Tema: 12 Factors App**
-    - Pazzis Paulino 1103790
+    - Huan Hao Wu - 1104326
+    - Eros Bencosme - 1104510
+    - Ángel Moreno - 1104666
+    - Gleidy Espinal - 1104225
+    - Rolbik Urbáez - 1105721
+  - **Equipo Pazzis - Tema pt1: (12 Factors App). Tema pt2: (Docker - Docker Compose - Docker Hub)**
+    - Pazzis Paulino 1103790 (NLTK)
     - Paola Saldaña 1104081
     - Alexa Guzmán 1101488
     - Johan Contreras 1106473
@@ -53,16 +53,9 @@
     - Rahnya Negron - 1098587
     - Mariano Vásquez - 1087284
 
-
-    
-
 ## Plan de Trabajo
 
 Distribución de temas y asignaciones a lo largo del trimestre.
-
-
-
-
 
 ```mermaid
 timeline
