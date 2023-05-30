@@ -32,7 +32,7 @@
   - **Equipo Angel - Tema Metodologia Agile Lean**
     -	Huan Hao Wu - 1104326
     -	Eros Bencosme - 1104510
-    -	Ángel Moreno - 1104666
+    -	Ángel Moreno - 1104666 (TensorFlow)
     -	Gleidy Espinal - 1104225
     -	Rolbik Urbáez - 1105721
   - **Equipo Pazzis - Tema: 12 Factors App**
