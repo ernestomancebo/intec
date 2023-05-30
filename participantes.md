@@ -5,7 +5,7 @@
 3. Eduardo Segura - 1106648 (Flutter/Dart)
 
 - Equipos
-  - **Equipo Segura - Tema Scrum**
+  - **Equipo Segura - Tema#1 Scrum** - **Tema #2 DevOps (CI/CD)**
     - Eduardo Segura - 1106648 (Flutter/Dart)
     - Evans Jimenez - 1105402
     - Jincheng Wu - 1106398
