@@ -7,7 +7,7 @@
 - Equipos
   - **Equipo Segura - Tema Scrum**
     - Eduardo Segura - 1106648 (Flutter/Dart)
-    - Evans Jimenez - 1105402
+    - Evans Jimenez - 1105402 (Design Sprint)
     - Jincheng Wu - 1106398
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
