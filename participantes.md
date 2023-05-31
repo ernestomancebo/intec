@@ -24,7 +24,7 @@
     - Rosanna Bautista - 1105980 
     - Jean Brugal - 1105192
   - **Equipo Acosta - Tema 3 Almacenamientos de Big Data**
-    - Jean Güichardo - 1105491
+    - Jean Güichardo - 1105491 (React)
     - Jesus Bido - 1105909
     - Ricardo Acosta - 1104082
     - Wilbert Leon - 1105634
