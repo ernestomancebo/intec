@@ -5,9 +5,9 @@
 3. Eduardo Segura - 1106648 (Flutter/Dart)
 
 - Equipos
-  - **Equipo Segura - Tema Scrum**
+  - **Equipo Segura - Tema#1 Scrum** - **Tema #2 DevOps (CI/CD)**
     - Eduardo Segura - 1106648 (Flutter/Dart)
-    - Evans Jimenez - 1105402
+    - Evans Jimenez - 1105402 (Design Sprint)
     - Jincheng Wu - 1106398
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
@@ -30,11 +30,11 @@
     - Wilbert Leon - 1105634
     - Pablo Felix - 1105997
   - **Equipo Angel - Tema Metodologia Agile Lean**
-    - Huan Hao Wu - 1104326
-    - Eros Bencosme - 1104510
-    - Ángel Moreno - 1104666
-    - Gleidy Espinal - 1104225
-    - Rolbik Urbáez - 1105721
+    -	Huan Hao Wu - 1104326
+    -	Eros Bencosme - 1104510
+    -	Ángel Moreno - 1104666 (TensorFlow)
+    -	Gleidy Espinal - 1104225
+    -	Rolbik Urbáez - 1105721
   - **Equipo Pazzis - Tema pt1: (12 Factors App). Tema pt2: (Docker - Docker Compose - Docker Hub)**
     - Pazzis Paulino 1103790 (NLTK)
     - Paola Saldaña 1104081
