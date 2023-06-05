@@ -30,7 +30,7 @@
     - Wilbert Leon - 1105634
     - Pablo Felix - 1105997
   - **Equipo Angel - Tema Metodologia Agile Lean**
-    -	Huan Hao Wu - 1104326
+    -	Huan Hao Wu - 1104326 (Progressive Web Apps)
     -	Eros Bencosme - 1104510
     -	Ángel Moreno - 1104666 (TensorFlow)
     -	Gleidy Espinal - 1104225
