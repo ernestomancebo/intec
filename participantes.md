@@ -29,7 +29,7 @@
     - Ricardo Acosta - 1104082
     - Wilbert Leon - 1105634
     - Pablo Felix - 1105997
-  - **Equipo Angel - Tema Metodologia Agile Lean**
+  - **Equipo Angel - Tema pt1: (Tema Metodologia Agile Lean). Tema pt2: (React Native)**
     -	Huan Hao Wu - 1104326 (Progressive Web Apps)
     -	Eros Bencosme - 1104510
     -	Ángel Moreno - 1104666 (TensorFlow)
