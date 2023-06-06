@@ -12,7 +12,7 @@
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
   - **Equipo 2 - Tema Xtreme Programming**
-    - Manuel Sánchez 1104904
+    - Manuel Sánchez 1104904   (Tema Individual: Vue.Js)
     - Francisco Paulino 1106084
     - Víctor Santos 1105977
     - José Leonardo Cruz 1106529
