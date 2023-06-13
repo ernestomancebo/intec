@@ -11,7 +11,7 @@
     - Jincheng Wu - 1106398
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
-  - **Equipo 2 - Tema Xtreme Programming**
+  - **Equipo 2 - Tema Xtreme Programming** --Segundo Tema Firebase
     - Manuel Sánchez 1104904   (Tema Individual: Vue.Js)
     - Francisco Paulino 1106084
     - Víctor Santos 1105977
