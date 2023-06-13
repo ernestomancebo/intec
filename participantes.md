@@ -31,7 +31,7 @@
     - Pablo Felix - 1105997
   - **Equipo Angel - Tema pt1: (Tema Metodologia Agile Lean). Tema pt2: (React Native)**
     -	Huan Hao Wu - 1104326 (Progressive Web Apps)
-    -	Eros Bencosme - 1104510
+    -	Eros Bencosme - 1104510 (Ionic)
     -	Ángel Moreno - 1104666 (TensorFlow)
     -	Gleidy Espinal - 1104225
     -	Rolbik Urbáez - 1105721
