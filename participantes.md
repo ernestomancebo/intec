@@ -25,7 +25,7 @@
     - Jean Brugal - 1105192
   - **Equipo Acosta - Tema 3 Almacenamientos de Big Data**
     - Jean Güichardo - 1105491 (React)
-    - Jesus Bido - 1105909 (Posgresql)
+    - Jesus Bido - 1105909 (Posgresql/PostGis)
     - Ricardo Acosta - 1104082
     - Wilbert Leon - 1105634
     - Pablo Felix - 1105997
