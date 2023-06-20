@@ -17,9 +17,9 @@
     - Víctor Santos 1105977
     - José Leonardo Cruz 1106529
     - Saul Pinales 1104770
-  - **EQUIPO Ferreira - TEMA 3: SERIES TEMPORALES (REDIS, POSTGRES)**
+  - **EQUIPO Ferreira - TEMA 1: SERIES TEMPORALES (REDIS, POSTGRES) - TEMA2: UI/UX - Material UI**
     - William Ferreira - 1104228
-    - Luis Adames - 1106170
+    - Luis Adames - 1106170 **(Tema Individual: Apache Airflow)**
     - Cistian Jimenez - 1106166
     - Rosanna Bautista - 1105980
     - Jean Brugal - 1105192
