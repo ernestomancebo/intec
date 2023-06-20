@@ -11,7 +11,7 @@
     - Jincheng Wu - 1106398
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
-  - **Equipo 2 - Tema Xtreme Programming**
+  - **Equipo 2 - Tema Xtreme Programming** --Segundo Tema Firebase
     - Manuel Sánchez 1104904   (Tema Individual: Vue.Js)
     - Francisco Paulino 1106084
     - Víctor Santos 1105977
@@ -31,7 +31,7 @@
     - Pablo Felix - 1105997
   - **Equipo Angel - Tema pt1: (Tema Metodologia Agile Lean). Tema pt2: (React Native)**
     -	Huan Hao Wu - 1104326 (Progressive Web Apps)
-    -	Eros Bencosme - 1104510
+    -	Eros Bencosme - 1104510 (Ionic)
     -	Ángel Moreno - 1104666 (TensorFlow)
     -	Gleidy Espinal - 1104225
     -	Rolbik Urbáez - 1105721
@@ -47,7 +47,7 @@
     - Eduardo Hernández - 1102911
     - Wancel Javier Ferreras - 1107672
     - Bryan Medina - 1094168
-  - **Equipo Rafael - Tema: BBDD Columnares** 
+  - **Equipo Rafael - Tema1: BBDD Columnares** __Tema2: Soluciones enlatadas - Odoo__
     - Rafael Espinal - 1102817 (Next.JS)
     - Fernando Grullon - 1094013
     - Rahnya Negron - 1098587
