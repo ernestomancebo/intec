@@ -16,7 +16,7 @@
     - Francisco Paulino 1106084
     - Víctor Santos 1105977
     - José Leonardo Cruz 1106529
-    - Saul Pinales 1104770
+    - Saul Pinales 1104770 (Go/Golang)
   - **EQUIPO Ferreira - TEMA 1: SERIES TEMPORALES (REDIS, POSTGRES) - TEMA2: UI/UX - Material UI**
     - William Ferreira - 1104228 (Tema Individual: Ruby on Rails)
     - Luis Adames - 1106170 **(Tema Individual: Apache Airflow)**
