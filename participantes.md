@@ -8,7 +8,7 @@
   - **Equipo Segura - Tema#1 Scrum** - **Tema #2 DevOps (CI/CD)**
     - Eduardo Segura - 1106648 (Flutter/Dart)
     - Evans Jimenez - 1105402 (Design Sprint)
-    - Jincheng Wu - 1106398
+    - Jincheng Wu - 1106398 (Vector Database)
     - Manuel Guerrero - 1105793
     - Victor Peña Feliz - 1106630
   - **Equipo 2 - Tema Xtreme Programming** --Segundo Tema Firebase
