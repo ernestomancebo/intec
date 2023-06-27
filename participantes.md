@@ -43,7 +43,7 @@
     - Allen Silverio 1104220 (Herramienta No-Code: Webflow)
   - **Equipo Mesa - Tema: BBDD de Documentos (couchdb, mongodb, Solr)**
     - Jesús Acosta - 1104174
-    - Francisco Mesa - 1104528
+    - Francisco Mesa - 1104528 (**Pandas** (Python))
     - Eduardo Hernández - 1102911
     - Wancel Javier Ferreras - 1107672
     - Bryan Medina - 1094168
