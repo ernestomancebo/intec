@@ -22,7 +22,7 @@
     - Luis Adames - 1106170 **(Tema Individual: Apache Airflow)**
     - Cistian Jimenez - 1106166
     - Rosanna Bautista - 1105980
-    - Jean Brugal - 1105192
+    - Jean Brugal - 1105192 (Tema Individual: H20)
   - **Equipo Acosta - Tema 3 Almacenamientos de Big Data**
     - Jean Güichardo - 1105491 (React)
     - Jesus Bido - 1105909 (Posgresql/PostGis)
