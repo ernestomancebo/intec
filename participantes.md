@@ -33,7 +33,7 @@
     -	Huan Hao Wu - 1104326 (Progressive Web Apps)
     -	Eros Bencosme - 1104510 (Ionic)
     -	Ángel Moreno - 1104666 (TensorFlow)
-    -	Gleidy Espinal - 1104225
+    -	Gleidy Espinal - 1104225 (Cypress)
     -	Rolbik Urbáez - 1105721
   - **Equipo Pazzis - Tema pt1: (12 Factors App). Tema pt2: (Docker - Docker Compose - Docker Hub)**
     - Pazzis Paulino 1103790 (NLTK)
