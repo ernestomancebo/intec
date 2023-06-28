@@ -34,7 +34,7 @@
     -	Eros Bencosme - 1104510 (Ionic)
     -	Ángel Moreno - 1104666 (TensorFlow)
     -	Gleidy Espinal - 1104225 (Cypress)
-    -	Rolbik Urbáez - 1105721
+    -	Rolbik Urbáez - 1105721 (Herramienta Low-Code: OutSystems)
   - **Equipo Pazzis - Tema pt1: (12 Factors App). Tema pt2: (Docker - Docker Compose - Docker Hub)**
     - Pazzis Paulino 1103790 (NLTK)
     - Paola Saldaña 1104081
