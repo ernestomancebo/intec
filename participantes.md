@@ -10,7 +10,7 @@
     - Evans Jimenez - 1105402 (Design Sprint)
     - Jincheng Wu - 1106398 (Vector Database)
     - Manuel Guerrero - 1105793
-    - Victor Peña Feliz - 1106630
+    - Victor Peña Feliz - 1106630 (Test Automation: Selenium)
   - **Equipo 2 - Tema Xtreme Programming** --Segundo Tema Firebase
     - Manuel Sánchez 1104904   (Tema Individual: Vue.Js)
     - Francisco Paulino 1106084
