@@ -14,7 +14,7 @@
   - **Equipo 2 - Tema Xtreme Programming** --Segundo Tema Firebase
     - Manuel Sánchez 1104904   (Tema Individual: Vue.Js)
     - Francisco Paulino 1106084
-    - Víctor Santos 1105977
+    - Víctor Santos 1105977 (Tema Individual: Nuxt.Js)
     - José Leonardo Cruz 1106529
     - Saul Pinales 1104770 (Go/Golang)
   - **EQUIPO Ferreira - TEMA 1: SERIES TEMPORALES (REDIS, POSTGRES) - TEMA2: UI/UX - Material UI**
