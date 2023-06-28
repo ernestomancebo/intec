@@ -38,7 +38,7 @@
   - **Equipo Pazzis - Tema pt1: (12 Factors App). Tema pt2: (Docker - Docker Compose - Docker Hub)**
     - Pazzis Paulino 1103790 (NLTK)
     - Paola Saldaña 1104081
-    - Alexa Guzmán 1101488
+    - Alexa Guzmán 1101488 (Solr database)
     - Johan Contreras 1106473
     - Allen Silverio 1104220 (Herramienta No-Code: Webflow)
   - **Equipo Mesa - Tema: BBDD de Documentos (couchdb, mongodb, Solr)**
