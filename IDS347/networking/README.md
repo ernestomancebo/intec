@@ -1,3 +1,0 @@
-# Networking
-
-Intercomunicación de hoy
