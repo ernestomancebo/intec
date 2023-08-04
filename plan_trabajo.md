@@ -4,14 +4,14 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 ## Distribución de Temas
 
-| Equipo   | Presentación del Temario | Semana | Presentación Independiente | Semana |
-| -------- | ------------------------ | ------ | -------------------------- | ------ |
-| Equipo 1 |                          |        |                            |        |
-| Equipo 2 |                          |        |                            |        |
-| Equipo 3 |                          |        |                            |        |
-| Equipo 4 |                          |        |                            |        |
-| Equipo 5 |    Entity Framework                      |  7      |   React                         |  9      |
-| Equipo 6 |                          |        |                            |        |
+| Equipo   | Presentación del Temario | Semana | Presentación Independiente | Semana | Projecto Lab. |
+| -------- | ------------------------ | ------ | -------------------------- | ------ | --------------|
+| Equipo 1 |                          |        |                            |        |               |
+| Equipo 2 |                          |        |                            |        |               |
+| Equipo 3 |                          |        |                            |        |               |
+| Equipo 4 |                          |        |                            |        |               |
+| Equipo 5 |    Entity Framework                      |  7      |   React                         |  9      |               |
+| Equipo 6 |                          |        |                            |        |               |
 
 ### Integrantes de Cada Equipo
 
@@ -44,7 +44,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | Miembro | Matrícula |
 | ------- | --------- |
 |         |           |
-|         |           |
+| JOSE EDUARDO DURAN DEL ROSARIO        |   1074957        |
 |         |           |
 |         |           |
 
