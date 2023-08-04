@@ -44,7 +44,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | Miembro | Matrícula |
 | ------- | --------- |
 |         |           |
-|         |           |
+| JOSE EDUARDO DURAN DEL ROSARIO        |   1074957        |
 |         |           |
 |         |           |
 
