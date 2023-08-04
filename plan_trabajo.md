@@ -54,7 +54,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 | Miembro | Matrícula |
 | ------- | --------- |
-|         |           |
+|Juan Encarnacion         |1105483           |
 |         |           |
 |         |           |
 |         |           |
