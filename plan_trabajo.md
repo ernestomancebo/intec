@@ -8,7 +8,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | -------- | ------------------------ | ------ | -------------------------- | ------ |
 | Equipo 1 |                          |        |                            |        |
 | Equipo 2 |                          |        |                            |        |
-| Equipo 3 |   NPL                       |  6      |    React Native                        |   8     |
+| Equipo 3 | NPL                      | 6      | React Native               | 8      |
 | Equipo 4 |                          |        |                            |        |
 | Equipo 5 |                          |        |                            |        |
 | Equipo 6 |                          |        |                            |        |
@@ -41,12 +41,14 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 #### Equipo 3
 
-| Miembro | Matrícula |
-| ------- | --------- |
-|         |           |
-|JOSE EDUARDO DURAN DEL ROSARIO         |  1074957         |
-|         |           |
-|         |           |
+| Miembro                        | Matrícula |
+| ------------------------------ | --------- |
+|                                |           |
+| JOSE EDUARDO DURAN DEL ROSARIO | 1074957   |
+| GREGORIO MIGUEL ESTEVEZ CUELLO | 1106269   |
+|                                |           |
+|                                |           |
+|                                |           |
 
 ---
 
