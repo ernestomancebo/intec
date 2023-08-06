@@ -8,7 +8,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | -------- | ------------------------ | ------ | -------------------------- | ------ | --------------|
 | Equipo 1 |                          |        |                            |        |               |
 | Equipo 2 |                          |        |                            |        |               |
-| Equipo 3 |                          |        |                            |        |               |
+| Equipo 3 |  NPL                        |    6    |      React Native                      |   8     |               |
 | Equipo 4 |                          |        |                            |        |               |
 | Equipo 5 |    Entity Framework                      |  7      |   React                         |  9      |               |
 | Equipo 6 |                          |        |                            |        |               |
