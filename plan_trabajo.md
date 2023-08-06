@@ -5,12 +5,12 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 ## Distribución de Temas
 
 | Equipo   | Presentación del Temario | Semana | Presentación Independiente | Semana | Projecto Lab. |
-| -------- | ------------------------ | ------ | -------------------------- | ------ | --------------|
+| -------- | ------------------------ | ------ | -------------------------- | ------ | ------------- |
 | Equipo 1 |                          |        |                            |        |               |
 | Equipo 2 |                          |        |                            |        |               |
-| Equipo 3 |  NPL                        |    6    |      React Native                      |   8     |               |
+| Equipo 3 | NPL                      | 6      | React Native               | 8      |               |
 | Equipo 4 |                          |        |                            |        |               |
-| Equipo 5 |    Entity Framework                      |  7      |   React                         |  9      |               |
+| Equipo 5 | Entity Framework         | 7      | React                      | 9      |               |
 | Equipo 6 |                          |        |                            |        |               |
 
 ### Integrantes de Cada Equipo
@@ -41,12 +41,12 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 #### Equipo 3
 
-| Miembro | Matrícula |
-| ------- | --------- |
-|         |           |
-| JOSE EDUARDO DURAN DEL ROSARIO        |   1074957        |
-|         |           |
-|         |           |
+| Miembro                        | Matrícula |
+| ------------------------------ | --------- |
+| JEAN CARLOS AZAR TREJO         | 1104992   |
+| JOSE EDUARDO DURAN DEL ROSARIO | 1074957   |
+|                                |           |
+|                                |           |
 
 ---
 
@@ -63,14 +63,14 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 #### Equipo 5
 
-| Miembro | Matrícula |
-| ------- | --------- |
-|  Donato Machado       |     1104816      |
-|    Elián Matos    |     1106901     |
-|   John Del Rosario      |      1106940     |
-|    Juan Ubiera     |  1107248     |
-|    Kelvin García     |   1107646        |
-|    Leonel Sepúlveda     |   1104995        |
+| Miembro          | Matrícula |
+| ---------------- | --------- |
+| Donato Machado   | 1104816   |
+| Elián Matos      | 1106901   |
+| John Del Rosario | 1106940   |
+| Juan Ubiera      | 1107248   |
+| Kelvin García    | 1107646   |
+| Leonel Sepúlveda | 1104995   |
 
 ---
 
