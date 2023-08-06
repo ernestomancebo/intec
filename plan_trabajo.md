@@ -56,7 +56,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | ------- | --------- |
 |Juan Encarnacion         |1105483           |
 |Jamal Mendez         |1106566           |
-|EMILEIDY DUARTE|           |1104524
+|EMILEIDY DUARTE|           |1104524| 
 |         |           |
 
 ---
