@@ -43,10 +43,9 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 | Miembro                        | Matrícula |
 | ------------------------------ | --------- |
-|                                |           |
+| JEAN CARLOS AZAR TREJO         | 1104992   |
 | JOSE EDUARDO DURAN DEL ROSARIO | 1074957   |
 | GREGORIO MIGUEL ESTEVEZ CUELLO | 1106269   |
-|                                |           |
 |                                |           |
 |                                |           |
 
