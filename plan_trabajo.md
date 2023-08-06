@@ -4,14 +4,14 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 ## Distribución de Temas
 
-| Equipo   | Presentación del Temario | Semana | Presentación Independiente | Semana |
-| -------- | ------------------------ | ------ | -------------------------- | ------ |
-| Equipo 1 |                          |        |                            |        |
-| Equipo 2 |                          |        |                            |        |
-| Equipo 3 | NPL                      | 6      | React Native               | 8      |
-| Equipo 4 |                          |        |                            |        |
-| Equipo 5 |                          |        |                            |        |
-| Equipo 6 |                          |        |                            |        |
+| Equipo   | Presentación del Temario | Semana | Presentación Independiente | Semana | Projecto Lab. |
+| -------- | ------------------------ | ------ | -------------------------- | ------ | ------------- |
+| Equipo 1 |                          |        |                            |        |               |
+| Equipo 2 |                          |        |                            |        |               |
+| Equipo 3 | NPL                      | 6      | React Native               | 8      |               |
+| Equipo 4 |                          |        |                            |        |               |
+| Equipo 5 | Entity Framework         | 7      | React                      | 9      |               |
+| Equipo 6 |                          |        |                            |        |               |
 
 ### Integrantes de Cada Equipo
 
@@ -45,8 +45,6 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | ------------------------------ | --------- |
 |                                |           |
 | JOSE EDUARDO DURAN DEL ROSARIO | 1074957   |
-| GREGORIO MIGUEL ESTEVEZ CUELLO | 1106269   |
-|                                |           |
 |                                |           |
 |                                |           |
 
@@ -65,12 +63,14 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 #### Equipo 5
 
-| Miembro | Matrícula |
-| ------- | --------- |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
+| Miembro          | Matrícula |
+| ---------------- | --------- |
+| Donato Machado   | 1104816   |
+| Elián Matos      | 1106901   |
+| John Del Rosario | 1106940   |
+| Juan Ubiera      | 1107248   |
+| Kelvin García    | 1107646   |
+| Leonel Sepúlveda | 1104995   |
 
 ---
 
