@@ -7,7 +7,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | Equipo   | Presentación del Temario | Semana | Presentación Independiente | Semana | Projecto Lab. |
 | -------- | ------------------------ | ------ | -------------------------- | ------ | --------------|
 | Equipo 1 |                          |        |                            |        |               |
-| Equipo 2 |                          |        |                            |        |               |
+| Equipo 2 |    DevOps                      |   4     |       Angular                     |   7     |               |
 | Equipo 3 |  NPL                        |    6    |      React Native                      |   8     |               |
 | Equipo 4 |                          |        |                            |        |               |
 | Equipo 5 |    Entity Framework                      |  7      |   React                         |  9      |               |
@@ -32,10 +32,11 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 | Miembro | Matrícula |
 | ------- | --------- |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
+|    Rayfel Ogando     |  1107535         |
+|    Guillermo Jorge    |   1107266        |
+|  Denzel Perez       |   1102259        |
+|  Sebastian Alcantara       |   1102556        |
+|  Avis Zucco       |   1104970        |
 
 ---
 
