@@ -58,6 +58,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 |Jamal Mendez         |1106566           |
 |Emileidy Duarte         | 1104524          |
 |Charles Mendez         |1100349           |
+|Wagner Morillo |1107665                   |
 
 ---
 
