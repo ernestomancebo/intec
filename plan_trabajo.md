@@ -47,7 +47,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | JOSE EDUARDO DURAN DEL ROSARIO | 1074957   |
 | GREGORIO MIGUEL ESTEVEZ CUELLO | 1106269   |
 | SEBASTIAN EMIL MERCADO PADILLA | 1102145   |
-|                                |           |
+| ROMAN A. VIGOUROUX FRANCO      | 1086216   |
 
 ---
 
