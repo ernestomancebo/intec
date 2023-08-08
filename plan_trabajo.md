@@ -21,7 +21,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 | Miembro | Matrícula |
 | ------- | --------- |
-|         |           |
+|  Victor Jimenez       |  1106003         |
 |         |           |
 |         |           |
 |         |           |
