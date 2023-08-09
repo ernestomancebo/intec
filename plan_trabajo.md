@@ -19,12 +19,12 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 #### Equipo 1
 
-| Miembro | Matrícula |
-| ------- | --------- |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
+| Miembro           | Matrícula |
+| --------------    | --------- |
+| Rusbel Duarte     | 1103307   |
+| Jeremy Jaquez     | 1106973   |
+| Victor Jimenez    | 1106003   |
+| Jorge Saldivar    | 1105996   |
 
 ---
 
