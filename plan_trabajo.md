@@ -9,7 +9,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | Equipo 1 |                          |        |                            |        |               |
 | Equipo 2 |                          |        |                            |        |               |
 | Equipo 3 |                          |        |                            |        |               |
-| Equipo 4 |Bases de datos no SQL                          |3        |Google BigML                            |6        |               |
+| Equipo 4 |MongoDB                         |3        |Google BigML                            |6        |Realizacion de un Core basico para una tienda con MongoDB               |
 | Equipo 5 |                          |        |                            |        |               |
 | Equipo 6 |                          |        |                            |        |               |
 
