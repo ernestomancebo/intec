@@ -11,7 +11,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | Equipo 3 | NPL                        |   6    |      React Native          |   8    | Language Learning Platform with AI Tutor |
 | Equipo 4 |                            |        |                            |        |               |
 | Equipo 5 | Entity Framework           |   7    |       React                |   9    |               |
-| Equipo 6 | Rendimiento de APIs: Async |   9    |       Mineria de datos     |   4    | Aplicacion de reservas |
+| Equipo 6 | Rendimiento de APIs: Async |   9    |       Mineria de datos     |   4    | Aplicacion de Reservas |
 
 ### Integrantes de Cada Equipo
 
