@@ -8,7 +8,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | -------- | ------------------------ | ------ | -------------------------- | ------ | ------------- |
 | Equipo 1 |                          |        |                            |        |               |
 | Equipo 2 |    DevOps                      |   4     |       Angular                     |   7     |               |
-| Equipo 3 |  NPL                        |    6    |      React Native                      |   8     |   Language Learning Platform with AI Tutor             |
+| Equipo 3 |    NPL                        |    6    |      React Native                      |   8     |   Language Learning Platform with AI Tutor             |
 | Equipo 4 |                          |        |                            |        |               |
 | Equipo 5 | Entity Framework         | 7      | React                      | 9      |               |
 | Equipo 6 |                          |        |                            |        |               |
@@ -35,7 +35,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 |    Rayfel Ogando     |  1107535         |
 |    Guillermo Jorge    |   1107266        |
 |  Denzel Perez       |   1102259        |
-|  Sebastian Alcantara       |   1102556        |
+|     Sebastian Alcantara       |   1102556        |
 |  Avis Zucco       |   1104970        |
 
 ---
