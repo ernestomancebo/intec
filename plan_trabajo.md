@@ -7,7 +7,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | Equipo   | Presentación del Temario   | Semana | Presentación Independiente | Semana | Projecto Lab. |
 | -------- | ------------------------   | ------ | -------------------------- | ------ | ------------- |
 | Equipo 1 |                            |        |                            |        |               |
-| Equipo 2 | DevOps                     |   4    |       Angular              |   7    |               |
+| Equipo 2 | DevOps                     |   4    |       Angular              |   7    | Mini Shop Online |
 | Equipo 3 | NPL                        |   6    |      React Native          |   8    | Language Learning Platform with AI Tutor |
 | Equipo 4 |                            |        |                            |        |               |
 | Equipo 5 | Entity Framework           |   7    |       React                |   9    |               |
