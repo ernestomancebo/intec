@@ -7,7 +7,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | Equipo   | Presentación del Temario | Semana | Presentación Independiente | Semana | Projecto Lab. |
 | -------- | ------------------------ | ------ | -------------------------- | ------ | ------------- |
  main
-| Equipo 1 |  LangChain               |   8    |        json-server         |   6    |   Tax Calculator            |
+| Equipo 1 |  LangChain               |   8    |        Django         |   6    |   Tax Calculator            |
 | Equipo 2 |    DevOps                      |   4     |       Angular                     |   7     |               |
 | Equipo 3 |  NPL                        |    6    |      React Native                      |   8     |   Language Learning Platform with AI Tutor             |
 | Equipo 1 |                          |        |                            |        |               |
