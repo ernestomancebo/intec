@@ -4,14 +4,15 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 ## Distribución de Temas
 
-| Equipo   | Presentación del Temario | Semana | Presentación Independiente | Semana | Projecto Lab. |
-| -------- | ------------------------ | ------ | -------------------------- | ------ | ------------- |
-| Equipo 1 |                          |        |                            |        |               |
-| Equipo 2 |    DevOps                      |   4     |       Angular                     |   7     |   Mini Shop Online            |
-| Equipo 3 |   NPL                        |    6    |      React Native                      |   8     |   Language Learning Platform with AI Tutor             |
-| Equipo 4 |MongoDB                         |3        |Google BigML                            |6        |Realizacion de un Core basico para una tienda con MongoDB               |
-| Equipo 5 | Entity Framework         | 7      | React                      | 9      |  Aplicación móvil para crear reseñas sobre estudiantes  |
-| Equipo 6 |                          |        |                            |        |               |
+| Equipo   | Presentación del Temario   | Semana | Presentación Independiente | Semana | Projecto Lab. |
+| -------- | ------------------------   | ------ | -------------------------- | ------ | ------------- |
+| Equipo 1 |                            |        |                            |        |               |
+| Equipo 2 | DevOps                     |   4    |       Angular              |   7    | Mini Shop Online |
+| Equipo 3 | NPL                        |   6    |       React Native         |   8    | Language Learning Platform with AI Tutor |
+| Equipo 4 | MongoDB                    |   3    |       Google BigML         |   6    | Realizacion de un Core basico para una tienda con MongoDB |
+| Equipo 5 | Entity Framework           |   7    |       React                |   9    | Aplicación móvil para crear reseñas sobre estudiantes |
+| Equipo 6 | Rendimiento de APIs: Async |   9    |       Mineria de datos     |   4    | Aplicación para agendar citas en un negocio |
+
 
 ### Integrantes de Cada Equipo
 
@@ -79,12 +80,14 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 #### Equipo 6
 
-| Miembro | Matrícula |
-| ------- | --------- |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
+| Miembro          | Matrícula |
+| -------          | --------- |
+| Alejandro Lara   | 1106231   |
+| Nleson Ureña     | 1105268   |
+| Diego Nolasco    | 1106095   |
+| Carlos Jimenez   | 1105749   |
+| Adam Guerrero    | 1106129   |
+| Francisco andres | 1107975   |
 
 ## Temario
 
