@@ -6,7 +6,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 | Equipo   | Presentación del Temario | Semana | Presentación Independiente | Semana | Projecto Lab. |
 | -------- | ------------------------ | ------ | -------------------------- | ------ | --------------|
-| Equipo 1 |      Contenedores        |   5     |         SupaBase          |    6    |               |
+| Equipo 1 |      Contenedores        |   5     |         Django          |    9    |  Expedicion y venta de Ticjets de rutas de autobus              |
 | Equipo 2 |    DevOps                      |   4     |       Angular                     |   7     |               |
 | Equipo 3 |  NPL                        |    6    |      React Native                      |   8     |               |
 | Equipo 4 |                          |        |                            |        |               |
@@ -23,7 +23,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | ------- | --------- |
 |  Victor Jimenez       |  1106003         |
 |  Rusbel Duarte      |  1103307        |
-|         |           |
+| Jorge saldivar        | 1105996          |
 |         |           |
 
 ---
