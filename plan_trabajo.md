@@ -6,7 +6,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 | Equipo   | Presentación del Temario   | Semana | Presentación Independiente | Semana | Projecto Lab. |
 | -------- | ------------------------   | ------ | -------------------------- | ------ | ------------- |
-| Equipo 1 | Docker                          |  8      |  Django                          |  10      |   Aplicacion venta de tickets para autobuses            |
+| Equipo 1 | Docker                          |  6      |  Django                          |  10      |   Aplicacion venta de tickets para autobuses            |
 | Equipo 2 | DevOps                     |   4    |       Angular              |   7    | Mini Shop Online |
 | Equipo 3 | NPL                        |   6    |       React Native         |   8    | Language Learning Platform with AI Tutor |
 | Equipo 4 | MongoDB                    |   3    |       Google BigML         |   6    | Realizacion de un Core basico para una tienda con MongoDB |
