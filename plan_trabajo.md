@@ -24,7 +24,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 |  Victor Jimenez       |  1106003         |
 |  Rusbel Duarte      |  1103307        |
 | Jorge saldivar        | 1105996          |
-|         |           |
+|   Jeremy De los Santos      |   1106973        |
 
 ---
 
