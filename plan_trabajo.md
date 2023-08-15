@@ -4,14 +4,15 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 ## Distribución de Temas
 
-| Equipo   | Presentación del Temario | Semana | Presentación Independiente | Semana | Projecto Lab. |
-| -------- | ------------------------ | ------ | -------------------------- | ------ | --------------|
-| Equipo 1 |      Contenedores        |   5     |         Django          |    9    |  Expedicion y venta de Ticjets de rutas de autobus              |
-| Equipo 2 |    DevOps                      |   4     |       Angular                     |   7     |               |
-| Equipo 3 |  NPL                        |    6    |      React Native                      |   8     |               |
-| Equipo 4 |                          |        |                            |        |               |
-| Equipo 5 |    Entity Framework                      |  7      |   React                         |  9      |               |
-| Equipo 6 |                          |        |                            |        |               |
+| Equipo   | Presentación del Temario   | Semana | Presentación Independiente | Semana | Projecto Lab. |
+| -------- | ------------------------   | ------ | -------------------------- | ------ | ------------- |
+| Equipo 1 |                            |        |                            |        |               |
+| Equipo 2 | DevOps                     |   4    |       Angular              |   7    | Mini Shop Online |
+| Equipo 3 | NPL                        |   6    |       React Native         |   8    | Language Learning Platform with AI Tutor |
+| Equipo 4 | MongoDB                    |   3    |       Google BigML         |   6    | Realizacion de un Core basico para una tienda con MongoDB |
+| Equipo 5 | Entity Framework           |   7    |       React                |   9    | Aplicación móvil para crear reseñas sobre estudiantes |
+| Equipo 6 | Rendimiento de APIs: Async |   9    |       Mineria de datos     |   4    | Aplicación para agendar citas en un negocio |
+
 
 ### Integrantes de Cada Equipo
 
@@ -21,10 +22,10 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 | Miembro | Matrícula |
 | ------- | --------- |
-|  Victor Jimenez       |  1106003         |
-|  Rusbel Duarte      |  1103307        |
-| Jorge saldivar        | 1105996          |
-|   Jeremy De los Santos      |   1106973        |
+|         |           |
+|         |           |
+|         |           |
+|         |           |
 
 ---
 
@@ -42,12 +43,13 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 #### Equipo 3
 
-| Miembro | Matrícula |
-| ------- | --------- |
-|         |           |
-| JOSE EDUARDO DURAN DEL ROSARIO        |   1074957        |
-|         |           |
-|         |           |
+| Miembro                        | Matrícula |
+| ------------------------------ | --------- |
+| JEAN CARLOS AZAR TREJO         | 1104992   |
+| JOSE EDUARDO DURAN DEL ROSARIO | 1074957   |
+| GREGORIO MIGUEL ESTEVEZ CUELLO | 1106269   |
+| SEBASTIAN EMIL MERCADO PADILLA | 1102145   |
+| ROMAN A. VIGOUROUX FRANCO      | 1086216   |
 
 ---
 
@@ -55,34 +57,37 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 
 | Miembro | Matrícula |
 | ------- | --------- |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
+|Juan Encarnacion         |1105483           |
+|Jamal Mendez         |1106566           |
+|Emileidy Duarte         | 1104524          |
+|Charles Mendez         |1100349           |
+|Wagner Morillo |1107665                   |
 
 ---
 
 #### Equipo 5
 
-| Miembro | Matrícula |
-| ------- | --------- |
-|  Donato Machado       |     1104816      |
-|    Elián Matos    |     1106901     |
-|   John Del Rosario      |      1106940     |
-|    Juan Ubiera     |  1107248     |
-|    Kelvin García     |   1107646        |
-|    Leonel Sepúlveda     |   1104995        |
+| Miembro          | Matrícula |
+| ---------------- | --------- |
+| Donato Machado   | 1104816   |
+| Elián Matos      | 1106901   |
+| John Del Rosario | 1106940   |
+| Juan Ubiera      | 1107248   |
+| Kelvin García    | 1107646   |
+| Leonel Sepúlveda | 1104995   |
 
 ---
 
 #### Equipo 6
 
-| Miembro | Matrícula |
-| ------- | --------- |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
+| Miembro          | Matrícula |
+| -------          | --------- |
+| Alejandro Lara   | 1106231   |
+| Nleson Ureña     | 1105268   |
+| Diego Nolasco    | 1106095   |
+| Carlos Jimenez   | 1105749   |
+| Adam Guerrero    | 1106129   |
+| Francisco andres | 1107975   |
 
 ## Temario
 
