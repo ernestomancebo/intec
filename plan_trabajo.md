@@ -28,6 +28,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 |   Jeremy De los Santos      |   1106973        |
 |   Daniel Rondón      |   1088112        |
 |   Francisco Barrientos      |   1105584        |
+
 ---
 
 #### Equipo 2
