@@ -26,7 +26,8 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 |  Rusbel Duarte      |  1103307        |
 | Jorge saldivar        | 1105996          |
 |   Jeremy De los Santos      |   1106973        |
-
+|   Daniel Rondón      |   1088112        |
+|   Francisco Barrientos      |   1105584        |
 ---
 
 #### Equipo 2
