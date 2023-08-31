@@ -11,7 +11,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | Equipo 3 | NPL                        |   6    |       React Native         |   8    | Language Learning Platform with AI Tutor |
 | Equipo 4 | MongoDB                    |   3    |       Google BigML         |   6    | Realizacion de un Core basico para una tienda con MongoDB |
 | Equipo 5 | Entity Framework           |   7    |       React                |   9    | Aplicación móvil para crear reseñas sobre estudiantes |
-| Equipo 6 | Rendimiento de APIs: Async |   9    |       Mineria de datos     |   4    | Aplicación para agendar citas en un negocio |
+| Equipo 6 | Rendimiento de APIs: Async |   9    |       AWS     |   4    | Aplicación para agendar citas en un negocio |
 
 
 ### Integrantes de Cada Equipo
